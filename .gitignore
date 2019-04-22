@@ -1,2 +1,5 @@
 *.pyc
 ll.env/
+test_meteo_repubblica.py
+.vscode/
+.~lock.Elenco-comuni-italiani.csv#
